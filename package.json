@@ -1,0 +1,17 @@
+{
+  "name": "webrtcchatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "devDependencies": {
+    "budo": "^4.1.0"
+  },
+  "dependencies": {
+    "simple-peer": "^5.11.4"
+  },
+  "author": "Sagar Parker",
+  "license": "ISC"
+}
